@@ -1,5 +1,5 @@
 function wakeGlitch() {
-    const GLITCH_URL = "https://dawn-chambray-marquis.glitch.me/";
+    const GLITCH_URL = "";
     const options = {
       "method" : "POST",
       "payload" : {
